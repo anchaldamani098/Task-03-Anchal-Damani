@@ -165,6 +165,68 @@ WHERE UnitPrice < 20 OR UnitPrice > 600;
 
 
 
+## 🚀 Key Insights
+- **Phones, Tablets, and Laptops** generate the highest revenue.  
+- **Cash & Credit Card** are the most common payment methods.  
+- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
+- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
+- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
+- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
+
+---
+
+## 🚀 Key Insights
+- **Phones, Tablets, and Laptops** generate the highest revenue.  
+- **Cash & Credit Card** are the most common payment methods.  
+- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
+- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
+- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
+- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
+
+---
+
+ ## 🚀 Key Insights
+- **Phones, Tablets, and Laptops** generate the highest revenue.  
+- **Cash & Credit Card** are the most common payment methods.  
+- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
+- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
+- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
+- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
+
+---
+
+  
+## 🚀 Key Insights
+- **Laptops and Monitors** generate the highest revenue.  
+- **Credit/Debit Cards** are the most reliable payment methods; **Cash & Gift Cards** show higher cancellation rates.  
+- **Order Status** distribution → Delivered ~30%, Cancelled ~25%, Returned ~20%.  
+- **Referral sources (Instagram & Facebook)** drive strong sales but also higher returns; Google is more stable.  
+- **Top 5 customers** contribute a large share of revenue, useful for loyalty program targeting.  
+
+---
+
+## Tools & Technologies
+- **Google BigQuery** – SQL queries and analysis  
+- **Microsoft Excel** – Documentation sheet for queries and results  
+- **Screenshots** – Proof of query execution  
+
+---
+
+## How to Use
+1. Load the dataset into **BigQuery** (`orders_dataset.orders_table`).  
+2. Run the SQL queries listed in the **Queries Log**.    
+3. Add summarized results into the **Documentation Sheet (SQL Data Analysis documentation sheet p3.xlsx)**.    
+4. Review the README.md for insights, anomalies, and proof of SQL proficiency.  
+
+---
+
+## Project Goals
+- Showcase **SQL proficiency in BigQuery** (SELECT, WHERE, GROUP BY, HAVING, Aggregations).  
+- Provide actionable insights into **products, payments, order statuses, referral sources, and customers**.  
+- Detect anomalies such as **unusual prices and high cancellations**.  
+- Build a professional **Documentation Sheet + README.md** as proof of work.  
+- Present findings in a structured way for **coursework submission or GitHub portfolio**.  
+  
 
 
 
