@@ -39,7 +39,7 @@ LIMIT 10;
 
 
 
-
+---
 
 
 
@@ -55,7 +55,7 @@ GROUP BY PaymentMethod;
 
 
 
-
+---
 
 
 
@@ -74,7 +74,7 @@ LIMIT 3;
 
 
 
-
+---
 
 
 
@@ -93,7 +93,7 @@ LIMIT 5;
 
 
 
-
+---
 
 
 
@@ -111,7 +111,7 @@ ORDER BY avg_order_value DESC;
 
 
 
-
+---
 
 
 
@@ -127,7 +127,7 @@ WHERE UnitPrice < 20 OR UnitPrice > 600;
 
 
 
-
+---
 
 
 
@@ -143,7 +143,7 @@ WHERE UnitPrice < 20 OR UnitPrice > 600;
 
 
 
-
+---
 
 
 
@@ -163,45 +163,6 @@ WHERE UnitPrice < 20 OR UnitPrice > 600;
 - Gift Card payments → high cancellation/return rate.  
 - Certain customers have **>3 cancelled orders** (possible churn risk).
 
-
-
-## 🚀 Key Insights
-- **Phones, Tablets, and Laptops** generate the highest revenue.  
-- **Cash & Credit Card** are the most common payment methods.  
-- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
-- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
-- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
-- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
-
----
-
-## 🚀 Key Insights
-- **Phones, Tablets, and Laptops** generate the highest revenue.  
-- **Cash & Credit Card** are the most common payment methods.  
-- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
-- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
-- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
-- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
-
----
-
- ## 🚀 Key Insights
-- **Phones, Tablets, and Laptops** generate the highest revenue.  
-- **Cash & Credit Card** are the most common payment methods.  
-- **Cancelled & Returned orders** highlight potential issues in product quality or delivery.  
-- **Coupon codes (SAVE10, FREESHIP, WINTER15)** significantly influence purchase decisions.  
-- **Referral sources like Instagram & Facebook** drive strong customer engagement.  
-- The single dashboard provides a **visual summary of sales and customer behavior trends**.  
-
----
-
-  
-## 🚀 Key Insights
-- **Laptops and Monitors** generate the highest revenue.  
-- **Credit/Debit Cards** are the most reliable payment methods; **Cash & Gift Cards** show higher cancellation rates.  
-- **Order Status** distribution → Delivered ~30%, Cancelled ~25%, Returned ~20%.  
-- **Referral sources (Instagram & Facebook)** drive strong sales but also higher returns; Google is more stable.  
-- **Top 5 customers** contribute a large share of revenue, useful for loyalty program targeting.  
 
 ---
 
